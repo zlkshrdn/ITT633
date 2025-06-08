@@ -36,6 +36,7 @@ This project focuses on **automating network operations** to reduce manual inter
 ---
 ## 🗺️ Topology 
 
+![Network Topology] (Screenshot 2025-05-24 160218.png)
 ---
 ## 📈 Results & Outcomes
 
