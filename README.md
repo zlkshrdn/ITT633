@@ -36,7 +36,7 @@ This project focuses on **automating network operations** to reduce manual inter
 ---
 ## 🗺️ Topology 
 
-![Network Topology] (https://github.com/zlkshrdn/ITT633/blob/af5d917acd00b609dd9d5142516a574ea6c58768/Screenshot%202025-05-24%20160218.png)
+![Network Topology] (https://github.com/zlkshrdn/ITT633/blob/main/Screenshot%202025-05-24%20160218.png)
 
 ---
 ## 📈 Results & Outcomes
